@@ -10,7 +10,7 @@
     "react": "*",
     "react-dom": "*",
     "react-redux": "*",
-    "react-router-dom": "*",
+    "react-router-dom": "^5.0.1",
     "redux": "*"
   },
   "scripts": {
